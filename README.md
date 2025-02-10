@@ -3,4 +3,4 @@
 Attach the polygon_2d gdscript script to the polygon node and set the shader as its material and it should hopefully work.
 
 ## Limitations:
-- You will be unable to use vertex colors as they are now used to pass the value
+- You will be unable to use vertex colors as they are now used to pass sin and cos of rotation to the shader
